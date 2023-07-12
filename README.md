@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Abdullah Fadhi Eliwa 
-- 👀 I’m interested in data analysis, machine learning and computer vision 
+- 👀 I’m interested in data analysis, machine learning, and computer vision 
 - 🌱 I’m currently learning data analysis
 - 💞️ I’m looking to collaborate on projects for data analysis and ML
-- 📫 you can contact me at ae167216@gmail.com
+- 📫 you can contact me at abdullah.eliwa76@gmail.com
 - 
 
 <!---
