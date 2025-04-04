@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Abdullah Fathy<br><br>Data analyst</h1>
+<h1 align="center">Hey, I'm Abdullah Fathy<br><br>Data Analyst/Machine Learning Engineer </h1>
 
 ###
 
