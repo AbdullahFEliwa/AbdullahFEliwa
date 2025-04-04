@@ -47,8 +47,6 @@
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
 </div>
 
-###
 
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
